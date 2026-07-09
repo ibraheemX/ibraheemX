@@ -31,6 +31,14 @@ I am a Backend Developer passionate about building secure and scalable web appli
 
 
 
+### Concepts
+- Object-Oriented Programming (OOP)
+- Object-Relational Mapping (ORM)
+- Model-View-Template (MVT)
+- CRUD
+
+
+
 ## Projects
 
 
