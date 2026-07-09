@@ -13,7 +13,7 @@ I am a Backend Developer passionate about building secure and scalable web appli
 - Python
 - Django
 - PostgreSQL
-
+- Django Rest Framework (Learning)
 
 ### Frontend
 
