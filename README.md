@@ -1,16 +1,111 @@
-## Hi there 👋
+# Hi, I'm Ibraheem Daher 
 
-<!--
-**ibraheemX/ibraheemX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Backend Developer passionate about building secure and scalable web applications.
+
+
+## Skills
+
+### Backend
+
+- Python
+- Django
+- PostgreSQL
+
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React (Learning)
+
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+
+
+
+## Projects
+
+
+### Django Blog
+
+Full Django blog application with:
+
+- Authentication
+- Authorization
+- CRUD operations
+- User permissions
+
+🔗 Repository:
+https://github.com/ibraheemX/django-blog-app
+
+
+
+### Django Todo App
+
+Task management application built with Django.
+
+Features:
+
+- Create tasks
+- Update tasks
+- Delete tasks
+
+
+🔗 Repository:
+https://github.com/ibraheemX/django-todo-app
+
+
+
+### Portfolio Website
+
+Personal portfolio website built using HTML, CSS and JavaScript.
+
+🌐 Live:
+https://ibraheemx.github.io/ibraheem-daher-portfolio/
+
+
+
+### Tic Tac Toe Game
+
+A classic Tic Tac Toe game built using OOP and Python.
+
+The project includes interactive gameplay, player turn management,
+win and draw detection, and dynamic UI updates.
+
+Features:
+
+- Interactive game board
+- Player turn handling
+- Win and draw detection
+- Restart game functionality
+- Responsive design
+
+🔗 Repository:
+https://github.com/ibraheemX/Tic-Tac-Toe-game
+
+
+
+
+## Currently Learning
+
+- Django REST Framework
+- React
+- API Development
+
+
+
+## Contact
+
+GitHub:
+https://github.com/ibraheemX
+
+LinkedIn:
+https://www.linkedin.com/in/ibraheem-daher-1895b5284/
